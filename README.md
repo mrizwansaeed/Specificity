@@ -1,4 +1,4 @@
-# Specificity
+# Specificity based biased random walks
 
 Supplementary material for the paper:
 
