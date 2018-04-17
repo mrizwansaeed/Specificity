@@ -1,0 +1,10 @@
+http://dbpedia.org/ontology/language, 1171.2857142857142
+http://dbpedia.org/ontology/recordedIn, 355.93333333333334
+http://dbpedia.org/ontology/type, 280.46666666666664
+http://dbpedia.org/ontology/genre, 175.66666666666666
+http://dbpedia.org/ontology/recordLabel, 68.0
+http://dbpedia.org/ontology/artist, 51.06666666666667
+http://dbpedia.org/ontology/producer, 33.666666666666664
+http://purl.org/dc/terms/subject, 5.333333333333333
+http://dbpedia.org/ontology/subsequentWork, 2.2
+http://dbpedia.org/ontology/previousWork, 1.4

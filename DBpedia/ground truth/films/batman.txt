@@ -1,0 +1,6 @@
+dbr:Batman_(1989_film)
+dbr:Batman_Returns
+dbr:Batman_Forever
+dbr:Batman_&_Robin_(film)
+dbr:Batman_Begins
+dbr:Batman_(1966_film)

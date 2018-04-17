@@ -1,0 +1,7 @@
+dbr:King_Kong_(1933_film)
+dbr:King_Kong_(1976_film)
+dbr:King_Kong_(2005_film)
+dbr:King_Kong_Escapes
+dbr:King_Kong_vs._Godzilla
+dbr:Son_of_Kong
+dbr:The_Mighty_Kong
