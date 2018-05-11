@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/film.film.music,http://rdf.freebase.com/ns/music.artist.track,http://www.w3.org/2000/01/rdf-schema#label, 7.35
+http://rdf.freebase.com/ns/film.film.music,http://rdf.freebase.com/ns/music.artist.track,http://rdf.freebase.com/ns/type.object.name, 5.7
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/ns/film.film.film_festivals, 4.85
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.cs, 3.25
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/en, 2.2
+http://rdf.freebase.com/ns/film.film.music,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.type.instance, 1.35
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.fr_id, 0.0
+http://rdf.freebase.com/ns/film.film.music,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.music,http://rdf.freebase.com/ns/music.artist.track,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.music,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.name, 0.0
+http://rdf.freebase.com/ns/film.film.music,http://rdf.freebase.com/ns/music.artist.track,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.music,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.en_id, 0.0

@@ -1,0 +1,7 @@
+http://rdf.freebase.com/ns/film.film.country,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.type.instance, 18.29230769230769
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/common.topic.webpage,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 2.3076923076923075
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/common.topic.webpage,http://rdf.freebase.com/ns/type.object.type, 2.076923076923077
+http://rdf.freebase.com/ns/film.film.country,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2000/01/rdf-schema#label, 0.0
+http://rdf.freebase.com/ns/film.film.country,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.country,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.name, 0.0
+http://rdf.freebase.com/ns/film.film.country,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.0

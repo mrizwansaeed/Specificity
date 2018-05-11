@@ -1,0 +1,4 @@
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.type.instance, 99.95
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.016666666666666666
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/2000/01/rdf-schema#label, 0.016666666666666666
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.type, 0.016666666666666666

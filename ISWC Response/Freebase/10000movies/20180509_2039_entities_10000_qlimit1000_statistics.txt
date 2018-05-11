@@ -1,0 +1,6 @@
+Total number of entities to process: 10000
+File	Case	Depth	BN	Min	Max	AvgQResults	AvgTok	TotalTime	AvgQT	Zero
+C:/Users/rizwan/Work/VirtuosoWalks/Freebase/Walks/20180509_2039_case_9_entities_10000_qlimit1000_exact_d1_bn_1_false_false_false_PP.txt	9	1	1	1	5391	137.0306	224.1884	177.771	0.42599360000000297	0
+C:/Users/rizwan/Work/VirtuosoWalks/Freebase/Walks/20180509_2039_case_9_entities_10000_qlimit1000_exact_d2_bn_1_false_false_false_PP.txt	9	2	1	1	1413	1000.0	243.9343	327.116	0.7810873999999997	0
+C:/Users/rizwan/Work/VirtuosoWalks/Freebase/Walks/20180509_2039_case_10_entities_10000_qlimit1000_exact_d1_bn_1_false_false_false_PP.txt	10	1	1	1	4782	57.0966	198.1645	627.074	1.5045046504650375	1
+C:/Users/rizwan/Work/VirtuosoWalks/Freebase/Walks/20180509_2039_case_10_entities_10000_qlimit1000_exact_d2_bn_1_false_false_false_PP.txt	10	2	1	1	25655	283.5557	4432.9974	218.852	0.5394688675302962	428

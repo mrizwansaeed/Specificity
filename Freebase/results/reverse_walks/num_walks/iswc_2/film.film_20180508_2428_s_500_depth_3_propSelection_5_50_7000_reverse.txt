@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/2000/01/rdf-schema#label, 99.58571428571429
+http://rdf.freebase.com/ns/film.film.runtime,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.name, 99.44285714285714
+http://rdf.freebase.com/ns/film.film.runtime,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2000/01/rdf-schema#label, 99.35714285714286
+http://rdf.freebase.com/ns/film.film.runtime,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.type.instance, 59.785714285714285
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/authority.imdb.title, 14.67142857142857
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/ns/common.topic.notable_for, 6.828571428571428
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/film.film_regional_release_date.film_release_distribution_medium,http://www.w3.org/2000/01/rdf-schema#label, 3.085714285714286
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/film.film_regional_release_date.film_release_distribution_medium,http://rdf.freebase.com/ns/type.object.name, 2.414285714285714
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.it, 1.3571428571428572
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/ns/type.object.name, 0.4857142857142857
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/ns/common.topic.notable_types, 0.0

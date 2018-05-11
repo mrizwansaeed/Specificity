@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/kg.object_profile.prominent_type, 81.725
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/key/en, 52.1
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.topical_webpage, 12.575
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.webpage, 5.175
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/location.location.containedby, 4.925
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.article, 1.975
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/location.location.contains, 0.775
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://www.w3.org/2000/01/rdf-schema#label, 0.55
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/type.object.name, 0.35
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage, 0.3
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.notable_for, 0.3
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.description, 0.05
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/type.object.type, 0.025
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.alias, 0.025
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/key/wikipedia.ja, 0.0
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://rdf.freebase.com/ns/common.topic.notable_types, 0.0
+http://rdf.freebase.com/ns/film.film.country,http://rdf.freebase.com/ns/location.location.contains,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0

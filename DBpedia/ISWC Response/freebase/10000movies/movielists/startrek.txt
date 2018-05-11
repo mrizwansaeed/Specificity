@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/m.01pg1t
+http://rdf.freebase.com/ns/m.06qyw
+http://rdf.freebase.com/ns/m.06r2_
+http://rdf.freebase.com/ns/m.06r2h
+http://rdf.freebase.com/ns/m.012gk9
+http://rdf.freebase.com/ns/m.014lc_
+http://rdf.freebase.com/ns/m.014nq4
+http://rdf.freebase.com/ns/m.015bpl
+http://rdf.freebase.com/ns/m.02pqwmj
+http://rdf.freebase.com/ns/m.08phg9
+http://rdf.freebase.com/ns/m.0kv1tt
+http://rdf.freebase.com/ns/m.047q7nj

@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/language.human_language.language_family,http://www.w3.org/2000/01/rdf-schema#label, 87.36129032258064
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.type.instance, 56.71612903225807
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.name, 23.129032258064516
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/2000/01/rdf-schema#label, 22.916129032258066
+http://rdf.freebase.com/ns/film.film.language,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.name, 1.8838709677419354
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/common.topic.webpage,http://rdf.freebase.com/ns/type.object.type, 1.6064516129032258
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/common.topic.webpage,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 1.4774193548387098
+http://rdf.freebase.com/ns/film.film.language,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2000/01/rdf-schema#label, 0.7612903225806451
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/language.human_language.main_country,http://rdf.freebase.com/ns/base.mystery.cryptid_observation_location.cryptid_s_occurring_here, 0.1935483870967742
+http://rdf.freebase.com/ns/film.film.language,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.language,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/language.human_language.language_family,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.language,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0

@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.name, 99.93076923076923
+http://rdf.freebase.com/ns/film.film.release_date_s,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2000/01/rdf-schema#label, 79.94615384615385
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.en_title, 4.476923076923077
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://www.w3.org/2000/01/rdf-schema#label, 1.9
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/ns/film.film.genre, 0.038461538461538464
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.cs_id, 0.023076923076923078
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/ns/film.film.starring, 0.015384615384615385
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/film.film_regional_release_date.film_release_distribution_medium,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/ns/common.topic.notable_types, 0.0
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/film.film_regional_release_date.film,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.release_date_s,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.type.instance, 0.0
+http://rdf.freebase.com/ns/film.film.release_date_s,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0

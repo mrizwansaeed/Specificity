@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/film.film.runtime,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.type.instance, 99.50434782608696
+http://rdf.freebase.com/ns/film.film.release_date_s,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.name, 79.9304347826087
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/2000/01/rdf-schema#label, 59.97391304347826
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.it_title, 6.052173913043478
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/film.film_cut.film,http://rdf.freebase.com/key/wikipedia.cs_title, 3.791304347826087
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/film.film_regional_release_date.film_release_distribution_medium,http://rdf.freebase.com/ns/base.articleindices.article_category.articles_in_this_category, 1.2521739130434784
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/film.film_regional_release_date.film_release_region,http://rdf.freebase.com/ns/base.mystery.cryptid_observation_location.cryptid_s_occurring_here, 0.034782608695652174
+http://rdf.freebase.com/ns/film.film.runtime,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.release_date_s,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.release_date_s,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.0
+http://rdf.freebase.com/ns/film.film.runtime,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.type, 0.0

@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.type.instance, 94.78333333333333
+http://rdf.freebase.com/ns/film.film.directed_by,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.name, 1.4666666666666666
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.name, 1.45
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/people.person.profession,http://rdf.freebase.com/ns/type.object.name, 0.75
+http://rdf.freebase.com/ns/film.film.directed_by,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2000/01/rdf-schema#label, 0.7166666666666667
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/people.person.profession,http://rdf.freebase.com/ns/type.object.type, 0.21666666666666667
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/film.director.film,http://rdf.freebase.com/ns/type.object.name, 0.15
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/film.writer.film,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.11666666666666667
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/film.director.film,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.1
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/film.director.film,http://rdf.freebase.com/ns/type.object.type, 0.1
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/film.writer.film,http://rdf.freebase.com/ns/type.object.name, 0.05
+http://rdf.freebase.com/ns/film.film.directed_by,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.03333333333333333
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.03333333333333333
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/freebase.valuenotation.has_value,http://rdf.freebase.com/ns/type.property.expected_type, 0.016666666666666666
+http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/freebase.valuenotation.has_value,http://rdf.freebase.com/ns/type.property.unique, 0.016666666666666666

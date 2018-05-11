@@ -1,0 +1,23 @@
+Total number of entities to process: 3000
+File	Case	Depth	BN	Min	Max	AvgQResults	AvgTok	TotalTime	AvgQT	Zero
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_9_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	9	1	1	2	744	97.018	195.152	9.948	0.07644566666666672	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_9_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	9	2	1	1	4015	483.0726666666667	256.742	82.258	0.6543143333333333	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_9_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	9	3	1	1	2211	491.0323333333333	121.58166666666666	135.157	1.0772453333333316	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_10_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	10	1	1	1	741	33.154	189.873	25.422	0.2025769999999997	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_10_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	10	2	1	5	5177	107.31733333333334	730.6803333333334	15.559	0.12313466666666663	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_10_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	10	3	1	2	270	18.403333333333332	46.39633333333333	10.094	0.08060306871247482	2
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_11_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	11	1	1	1	741	33.154	189.873	24.505	0.19575033333333322	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_11_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	11	2	1	5	5177	107.28766666666667	728.893	21.345	0.1701143333333338	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_11_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	11	3	1	2	270	18.403333333333332	46.39633333333333	15.397	0.12257404936624434	2
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_13_entities_3000_qlimit500_exact_d1_bn_1_false_false_true_PP.txt	13	1	1	1	741	33.154	189.873	24.426	0.19519666666666682	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_13_entities_3000_qlimit500_exact_d2_bn_1_false_false_true_PP.txt	13	2	1	5	5177	107.21566666666666	728.893	20.507	0.1633513333333334	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_13_entities_3000_qlimit500_exact_d3_bn_1_false_false_true_PP.txt	13	3	1	2	270	18.403	46.39533333333333	16.652	0.13271214142761822	2
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_15_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	15	1	1	1	741	33.154	189.873	25.493	0.20364533333333343	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_15_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	15	2	1	5	5177	107.28766666666667	728.893	127.222	1.0160980000000002	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_15_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	15	3	1	2	270	18.403333333333332	46.39633333333333	39.875	0.3187358238825884	2
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_17_entities_3000_qlimit500_exact_d1_bn_1_false_true_false_PP.txt	17	1	1	1	741	33.154	189.873	25.372	0.20261533333333318	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_17_entities_3000_qlimit500_exact_d2_bn_1_false_true_false_PP.txt	17	2	1	5	5177	88.81266666666667	728.893	138.829	1.108601333333333	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180404_1525_case_17_entities_3000_qlimit500_exact_d3_bn_1_false_true_false_PP.txt	17	3	1	0	0	0.0	0.0	116.081	0.0	3000
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180406_1804_case_7_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	7	1	1	1	1	15.840666666666667	1.0	16.325	0.13012966666666706	0
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180406_1804_case_7_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	7	2	1	0	1	91.26033333333334	0.955	12.856	0.10596265270506099	135
+C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/20180406_1804_case_7_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	7	3	1	0	1	116.58866666666667	0.9186666666666666	21.463	0.18229535558780843	244
