@@ -1,5 +1,0 @@
-Total number of entities to process: 3000
-File	Case	Depth	BN	Min	Max	AvgQResults	AvgTok	TotalTime	AvgQT	Zero
-C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/N100/20180510_1615_case_10_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	10	1	1	3	882	25.581333333333333	194.87033333333332	82.386	0.6588145430286855	2
-C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/N100/20180510_1615_case_10_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	10	2	1	0	1439	4.092	32.571666666666665	11.946	0.2896421471172961	2497
-C:/Users/rizwan/Work/VirtuosoWalks/DBpedia/Walks/N100/20180510_1615_case_10_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	10	3	1	0	30	0.36566666666666664	0.07366666666666667	11.246	0.660943661971831	2929

@@ -1,6 +1,0 @@
-Depth 1 processed in (sec):6.708
-Depth 1 reverse processed in (sec):117.76
-Depth 2 processed in (sec):18.506
-Depth 2 reverse processed in (sec):328.886
-Depth 3 processed in (sec):1.475
-Depth 3 reverse processed in (sec):95.741

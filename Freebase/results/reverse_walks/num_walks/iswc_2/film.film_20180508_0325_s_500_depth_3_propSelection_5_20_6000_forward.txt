@@ -1,3 +1,0 @@
-http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.type.instance, 99.25
-http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.object.name, 0.7333333333333333
-http://rdf.freebase.com/ns/film.film.directed_by,http://rdf.freebase.com/ns/type.object.type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 0.016666666666666666

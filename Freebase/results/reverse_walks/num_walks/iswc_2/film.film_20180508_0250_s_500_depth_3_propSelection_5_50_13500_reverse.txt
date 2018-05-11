@@ -1,3 +1,0 @@
-http://rdf.freebase.com/ns/common.topic.article,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2000/01/rdf-schema#label, 2.22962962962963
-http://rdf.freebase.com/ns/common.topic.article,http://rdf.freebase.com/ns/type.object.type,http://rdf.freebase.com/ns/type.type.instance, 0.02962962962962963
-http://rdf.freebase.com/ns/common.topic.article,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://rdf.freebase.com/ns/type.object.type, 0.0

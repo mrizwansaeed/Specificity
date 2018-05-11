@@ -1,8 +1,0 @@
-http://rdf.freebase.com/ns/m.03176f
-http://rdf.freebase.com/ns/m.03177r
-http://rdf.freebase.com/ns/m.031786
-http://rdf.freebase.com/ns/m.031778
-http://rdf.freebase.com/ns/m.031hcx
-http://rdf.freebase.com/ns/m.03hxsv
-http://rdf.freebase.com/ns/m.02pth35
-http://rdf.freebase.com/ns/m.0gvsynb
