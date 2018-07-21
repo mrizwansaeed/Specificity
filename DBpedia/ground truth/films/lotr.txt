@@ -1,5 +1,0 @@
-dbr:The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring
-dbr:The_Lord_of_the_Rings:_The_Return_of_the_King
-dbr:The_Lord_of_the_Rings_(film_series)
-dbr:The_Lord_of_the_Rings:_The_Two_Towers
-

@@ -1,5 +1,0 @@
-dbr:The_Great_Gatsby
-dbr:Tender_Is_the_Night
-dbr:The_Beautiful_and_Damned
-dbr:The_Love_of_the_Last_Tycoon
-dbr:This_Side_of_Paradise

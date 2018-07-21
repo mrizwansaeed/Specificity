@@ -1,0 +1,17 @@
+http://www.w3.org/2002/07/owl#sameAs, 8000
+http://dbpedia.org/ontology/distributor, 8000
+http://dbpedia.org/ontology/starring, 8000
+http://dbpedia.org/ontology/language, 8000
+http://dbpedia.org/ontology/producer, 8000
+http://dbpedia.org/ontology/editing, 8000
+http://dbpedia.org/ontology/country, 8000
+http://dbpedia.org/ontology/musicComposer, 8000
+http://purl.org/dc/terms/subject, 8000
+http://dbpedia.org/ontology/cinematography, 8000
+http://dbpedia.org/ontology/writer, 8000
+http://dbpedia.org/ontology/director, 8000
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 8000
+http://dbpedia.org/ontology/wikiPageExternalLink, 3615
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf, 3358
+http://www.w3.org/ns/prov#wasDerivedFrom, 3329
+http://xmlns.com/foaf/0.1/homepage, 14

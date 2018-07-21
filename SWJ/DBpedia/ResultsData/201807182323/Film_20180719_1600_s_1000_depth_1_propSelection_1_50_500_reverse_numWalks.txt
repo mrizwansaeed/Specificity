@@ -1,0 +1,17 @@
+http://dbpedia.org/ontology/narrator, 500
+http://dbpedia.org/ontology/wikiPageExternalLink, 500
+http://dbpedia.org/ontology/distributor, 500
+http://dbpedia.org/ontology/starring, 500
+http://dbpedia.org/ontology/producer, 500
+http://dbpedia.org/ontology/language, 500
+http://dbpedia.org/ontology/editing, 500
+http://dbpedia.org/ontology/country, 500
+http://dbpedia.org/ontology/musicComposer, 500
+http://purl.org/dc/terms/subject, 500
+http://dbpedia.org/ontology/cinematography, 500
+http://dbpedia.org/ontology/writer, 500
+http://dbpedia.org/ontology/director, 500
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 500
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf, 18
+http://www.w3.org/2002/07/owl#sameAs, 11
+http://www.w3.org/ns/prov#wasDerivedFrom, 10

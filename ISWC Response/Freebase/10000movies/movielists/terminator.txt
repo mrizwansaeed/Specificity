@@ -1,5 +1,0 @@
-http://rdf.freebase.com/ns/m.07ghq
-http://rdf.freebase.com/ns/m.01gwk3
-http://rdf.freebase.com/ns/m.0651yp
-http://rdf.freebase.com/ns/m.043tvp3
-http://rdf.freebase.com/ns/m.07gp9

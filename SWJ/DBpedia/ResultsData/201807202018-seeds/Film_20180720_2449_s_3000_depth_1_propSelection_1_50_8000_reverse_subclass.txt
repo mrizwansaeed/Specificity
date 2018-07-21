@@ -1,0 +1,17 @@
+http://www.w3.org/ns/prov#wasDerivedFrom, 100.0
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf, 100.0
+http://www.w3.org/2002/07/owl#sameAs, 96.65924276169265
+http://xmlns.com/foaf/0.1/homepage, 94.73684210526316
+http://dbpedia.org/ontology/cinematography, 93.935790725327
+http://dbpedia.org/ontology/editing, 92.98754478757891
+http://purl.org/dc/terms/subject, 88.2592155319428
+http://dbpedia.org/ontology/director, 87.21846068813043
+http://dbpedia.org/ontology/producer, 85.48086570159094
+http://dbpedia.org/ontology/wikiPageExternalLink, 84.29256594724221
+http://dbpedia.org/ontology/writer, 83.41800733841377
+http://dbpedia.org/ontology/starring, 81.54090969367458
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 80.58574078982242
+http://dbpedia.org/ontology/musicComposer, 77.7533644603131
+http://dbpedia.org/ontology/distributor, 71.90360796984383
+http://dbpedia.org/ontology/language, 39.2880175415968
+http://dbpedia.org/ontology/country, 12.014089822619198

@@ -1,0 +1,13 @@
+File	Case	Depth	BN	Min	Max	AvgQResults	AvgTok	TotalTime	AvgQT	Zero
+20180528_184649_album_case_9_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	9	1	1	1	1	51.497	0.999	6.719	0.05356523189856535	3
+20180528_184649_album_case_9_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	9	2	1	1	1	486.152	0.999	43.472	0.3450674007340674	3
+20180528_184649_album_case_9_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	9	3	1	1	1	497.40066666666667	0.999	110.528	0.876680680680679	3
+20180528_185236_album_case_8_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	8	1	1	1	1	40.008	0.999	50.756	0.40565965965965955	3
+20180528_185236_album_case_8_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	8	2	1	1	1	338.337	0.999	29.513	0.23297864531197887	3
+20180528_185236_album_case_8_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	8	3	1	0	1	434.13233333333335	0.9853333333333333	49.892	0.4019421515561556	44
+20180528_185123_album_case_7_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	7	1	1	1	1	6.419666666666667	0.9983333333333333	5.859	0.04678797996661135	5
+20180528_185123_album_case_7_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	7	2	1	1	1	112.55533333333334	0.996	16.28	0.1292332663989289	12
+20180528_185123_album_case_7_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	7	3	1	1	1	404.4123333333333	0.9823333333333333	51.061	0.41225246012894495	53
+20180529_103233_album_case_10_entities_3000_qlimit500_exact_d1_bn_1_false_false_false_PP.txt	10	1	1	1	1	17.265666666666668	0.999	17.367	0.1386980313646978	3
+20180529_103233_album_case_10_entities_3000_qlimit500_exact_d2_bn_1_false_false_false_PP.txt	10	2	1	1	1	51.797333333333334	0.999	13.096	0.10401134467801117	3
+20180529_103233_album_case_10_entities_3000_qlimit500_exact_d3_bn_1_false_false_false_PP.txt	10	3	1	0	1	71.546	0.944	15.271	0.12718997175141258	168

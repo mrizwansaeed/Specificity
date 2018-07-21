@@ -1,0 +1,17 @@
+http://dbpedia.org/ontology/country, 7962
+http://dbpedia.org/ontology/language, 7565
+http://purl.org/dc/terms/subject, 7543
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 7482
+http://dbpedia.org/ontology/distributor, 7159
+http://dbpedia.org/ontology/starring, 6963
+http://dbpedia.org/ontology/musicComposer, 6128
+http://dbpedia.org/ontology/director, 5434
+http://dbpedia.org/ontology/producer, 5271
+http://dbpedia.org/ontology/writer, 5223
+http://dbpedia.org/ontology/cinematography, 5217
+http://dbpedia.org/ontology/editing, 3743
+http://www.w3.org/2002/07/owl#sameAs, 506
+http://dbpedia.org/ontology/wikiPageExternalLink, 31
+http://www.w3.org/ns/prov#wasDerivedFrom, 22
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf, 16
+http://xmlns.com/foaf/0.1/homepage, 3
