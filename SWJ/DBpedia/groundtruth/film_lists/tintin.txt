@@ -1,0 +1,3 @@
+http://dbpedia.org/resource/Tintin_and_the_Blue_Oranges
+http://dbpedia.org/resource/Tintin_and_the_Lake_of_Sharks
+http://dbpedia.org/resource/The_Adventures_of_Tintin_(film)

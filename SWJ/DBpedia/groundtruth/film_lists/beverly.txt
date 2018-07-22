@@ -1,0 +1,3 @@
+http://dbpedia.org/resource/Beverly_Hills_Cop
+http://dbpedia.org/resource/Beverly_Hills_Cop_II
+http://dbpedia.org/resource/Beverly_Hills_Cop_III

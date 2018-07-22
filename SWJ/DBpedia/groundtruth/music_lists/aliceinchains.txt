@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/Dirt_(Alice_in_Chains_album)
+http://dbpedia.org/resource/Jar_of_Flies
+http://dbpedia.org/resource/Sap_(EP)
+http://dbpedia.org/resource/Facelift_(album)
+http://dbpedia.org/resource/We_Die_Young
+http://dbpedia.org/resource/Alice_in_Chains_(album)
+http://dbpedia.org/resource/Nothing_Safe:_Best_of_the_Box
+http://dbpedia.org/resource/Music_Bank_(album)
+http://dbpedia.org/resource/Greatest_Hits_(Alice_in_Chains_album)
+http://dbpedia.org/resource/Unplugged_(Alice_in_Chains_album)
+http://dbpedia.org/resource/Live_(Alice_in_Chains_album)
+http://dbpedia.org/resource/The_Essential_Alice_in_Chains

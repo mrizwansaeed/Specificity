@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/Star_Trek_Into_Darkness
+http://dbpedia.org/resource/Star_Trek_(film)
+http://dbpedia.org/resource/Star_Trek:_First_Contact
+http://dbpedia.org/resource/Star_Trek:_Insurrection
+http://dbpedia.org/resource/Star_Trek_Beyond
+http://dbpedia.org/resource/Star_Trek_IV:_The_Voyage_Home
+http://dbpedia.org/resource/Star_Trek_III:_The_Search_for_Spock
+http://dbpedia.org/resource/Star_Trek_II:_The_Wrath_of_Khan
+http://dbpedia.org/resource/Star_Trek_VI:_The_Undiscovered_Country
+http://dbpedia.org/resource/Star_Trek:_Planet_of_the_Titans
+http://dbpedia.org/resource/Star_Trek:_The_Motion_Picture
+http://dbpedia.org/resource/Star_Trek:_Nemesis
+http://dbpedia.org/resource/Star_Trek:_Of_Gods_and_Men
+http://dbpedia.org/resource/Star_Trek_V:_The_Final_Frontier
+http://dbpedia.org/resource/Star_Trek_Generations

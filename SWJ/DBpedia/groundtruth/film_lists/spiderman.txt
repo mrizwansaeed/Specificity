@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/The_Amazing_Spider-Man_(2012_film)
+http://dbpedia.org/resource/The_Amazing_Spider-Man_2
+http://dbpedia.org/resource/Spider-Man_(2002_film)
+http://dbpedia.org/resource/Spider-Man_2
+http://dbpedia.org/resource/Spider-Man_3

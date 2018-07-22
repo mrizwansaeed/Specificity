@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/Mad_Max
+http://dbpedia.org/resource/Mad_Max_2
+http://dbpedia.org/resource/Mad_Max_Beyond_Thunderdome
+http://dbpedia.org/resource/Mad_Max:_Fury_Road
+http://dbpedia.org/resource/Mad_Max_Beyond_Thunderdome

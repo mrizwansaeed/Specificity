@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/The_Hunger_Games:_Catching_Fire
+http://dbpedia.org/resource/The_Hunger_Games:_Mockingjay_–_Part_1
+http://dbpedia.org/resource/The_Hunger_Games:_Mockingjay_–_Part_2
+http://dbpedia.org/resource/The_Hunger_Games_(film)

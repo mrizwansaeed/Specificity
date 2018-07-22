@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/X-Men:_The_Last_Stand
+http://dbpedia.org/resource/X2_(film)
+http://dbpedia.org/resource/X-Men:_The_Last_Stand
+http://dbpedia.org/resource/X-Men:_Apocalypse
+http://dbpedia.org/resource/X-Men:_Days_of_Future_Past
+http://dbpedia.org/resource/X-Men_(film)
+http://dbpedia.org/resource/X-Men_Origins:_Wolverine
+http://dbpedia.org/resource/X-Men:_First_Class
+http://dbpedia.org/resource/The_Wolverine_(film)

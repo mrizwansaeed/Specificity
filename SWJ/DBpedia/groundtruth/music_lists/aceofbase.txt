@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Flowers_(Ace_of_Base_album)
+http://dbpedia.org/resource/The_Bridge_(Ace_of_Base_album)
+http://dbpedia.org/resource/Happy_Nation
+http://dbpedia.org/resource/Cruel_Summer_(Ace_of_Base_album)
+http://dbpedia.org/resource/Greatest_Hits_(Ace_of_Base_album)
+http://dbpedia.org/resource/Da_Capo_(Ace_of_Base_album)
+http://dbpedia.org/resource/Singles_of_the_90s

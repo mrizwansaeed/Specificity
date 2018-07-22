@@ -1,0 +1,12 @@
+dbr:The_Hound_of_the_Baskervilles
+dbr:The_Return_of_Sherlock_Holmes
+dbr:The_Memoirs_of_Sherlock_Holmes
+dbr:A_Study_in_Scarlet
+dbr:The_Sign_of_the_Four
+dbr:The_Case-Book_of_Sherlock_Holmes
+dbr:The_Lost_World_(Conan_Doyle_novel)
+dbr:The_Adventures_of_Sherlock_Holmes
+dbr:The_Valley_of_Fear
+dbr:His_Last_Bow
+dbr:The_Poison_Belt
+dbr:The_White_Company

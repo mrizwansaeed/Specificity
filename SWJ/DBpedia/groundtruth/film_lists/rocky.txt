@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/Rocky
+http://dbpedia.org/resource/Rocky_II
+http://dbpedia.org/resource/Rocky_III
+http://dbpedia.org/resource/Rocky_IV
+http://dbpedia.org/resource/Rocky_V
+http://dbpedia.org/resource/Rocky_IV
+http://dbpedia.org/resource/Rocky_II
+http://dbpedia.org/resource/Rocky_III
+http://dbpedia.org/resource/Rocky_(film_series)
+http://dbpedia.org/resource/Rocky_Balboa_(film)

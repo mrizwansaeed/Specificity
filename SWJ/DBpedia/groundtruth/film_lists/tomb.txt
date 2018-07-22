@@ -1,0 +1,2 @@
+http://dbpedia.org/resource/Lara_Croft:_Tomb_Raider
+http://dbpedia.org/resource/Lara_Croft_Tomb_Raider:_The_Cradle_of_Life

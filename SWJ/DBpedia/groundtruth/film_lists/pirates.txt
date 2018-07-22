@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales
+http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)
+http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl
+http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Man's_Chest
+http://dbpedia.org/resource/Pirates_of_the_Caribbean:_At_World's_End
+http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)
+http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales
+http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)
+http://dbpedia.org/resource/Pirates_of_the_Caribbean:_On_Stranger_Tides
+http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)

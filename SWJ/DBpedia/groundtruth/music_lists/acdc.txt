@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/Highway_to_Hell
+http://dbpedia.org/resource/Back_in_Black
+http://dbpedia.org/resource/If_You_Want_Blood_You've_Got_It
+http://dbpedia.org/resource/Blow_Up_Your_Video
+http://dbpedia.org/resource/The_Razors_Edge_(AC/DC_album)
+http://dbpedia.org/resource/Flick_of_the_Switch
+http://dbpedia.org/resource/'74_Jailbreak
+http://dbpedia.org/resource/Let_There_Be_Rock
+http://dbpedia.org/resource/Powerage
+http://dbpedia.org/resource/T.N.T._(album)
+http://dbpedia.org/resource/AC/DC_Live
+http://dbpedia.org/resource/Fly_on_the_Wall_(AC/DC_album)
+http://dbpedia.org/resource/Bonfire_(album)

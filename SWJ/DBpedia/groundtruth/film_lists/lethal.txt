@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/Lethal_Weapon
+http://dbpedia.org/resource/Lethal_Weapon_2
+http://dbpedia.org/resource/Lethal_Weapon_3
+http://dbpedia.org/resource/Lethal_Weapon_4
+http://dbpedia.org/resource/Lethal_Weapon_(film_series)

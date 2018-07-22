@@ -1,0 +1,3 @@
+dbr:A_Brief_History_of_Time
+dbr:Black_Holes_and_Baby_Universes_and_Other_Essays
+dbr:The_Universe_in_a_Nutshell

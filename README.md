@@ -13,4 +13,4 @@ Supplementary material for:
   organization={IEEE}
 }
 
-2) Journal Extension of 1 for SWJ
+2) Journal Extension of (1) for SWJ (submitted)

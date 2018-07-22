@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/Terminator_Salvation
+http://dbpedia.org/resource/Terminator_3:_Rise_of_the_Machines
+http://dbpedia.org/resource/Terminator_Genisys
+http://dbpedia.org/resource/The_Terminator
+http://dbpedia.org/resource/Terminator_2:_Judgment_Day

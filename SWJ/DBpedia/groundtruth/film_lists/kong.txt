@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/King_Kong_(1933_film)
+http://dbpedia.org/resource/King_Kong_Escapes
+http://dbpedia.org/resource/King_Kong_vs._Godzilla
+http://dbpedia.org/resource/King_Kong_(1976_film)
+http://dbpedia.org/resource/King_Kong_Lives
+http://dbpedia.org/resource/King_Kong_(1933_film)
+http://dbpedia.org/resource/King_Kong_(2005_film)
+http://dbpedia.org/resource/Kong:_Skull_Island

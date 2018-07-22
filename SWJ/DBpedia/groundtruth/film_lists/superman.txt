@@ -1,0 +1,17 @@
+http://dbpedia.org/resource/Superman:_Doomsday
+http://dbpedia.org/resource/Superman_Returns
+http://dbpedia.org/resource/Superman/Shazam!:_The_Return_of_Black_Adam
+http://dbpedia.org/resource/The_Death_of_%22Superman_Lives%22:_What_Happened%3F
+http://dbpedia.org/resource/Superman/Batman:_Apocalypse
+http://dbpedia.org/resource/Superman_and_the_Mole_Men
+http://dbpedia.org/resource/Superman_(1978_film)
+http://dbpedia.org/resource/Superman_II
+http://dbpedia.org/resource/Superman_II:_The_Richard_Donner_Cut
+http://dbpedia.org/resource/Superman_II
+http://dbpedia.org/resource/Superman_III
+http://dbpedia.org/resource/Superman_II:_The_Richard_Donner_Cut
+http://dbpedia.org/resource/Superman/Batman:_Public_Enemies
+http://dbpedia.org/resource/Superman_IV:_The_Quest_for_Peace
+http://dbpedia.org/resource/Atom_Man_vs._Superman
+http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice
+http://dbpedia.org/resource/Man_of_Steel_(film)
