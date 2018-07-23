@@ -1,4 +1,0 @@
-http://dbpedia.org/resource/101_Dalmatians_(1996_film)
-http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure
-http://dbpedia.org/resource/102_Dalmatians
-http://dbpedia.org/resource/One_Hundred_and_One_Dalmatians

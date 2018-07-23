@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/Alien_vs._Predator_(film)
-http://dbpedia.org/resource/Alien:_Resurrection
-http://dbpedia.org/resource/Alien_3
-http://dbpedia.org/resource/Aliens_(film)
-http://dbpedia.org/resource/Aliens_vs._Predator:_Requiem
-http://dbpedia.org/resource/Alien_(film)
-http://dbpedia.org/resource/Prometheus_(2012_film)
