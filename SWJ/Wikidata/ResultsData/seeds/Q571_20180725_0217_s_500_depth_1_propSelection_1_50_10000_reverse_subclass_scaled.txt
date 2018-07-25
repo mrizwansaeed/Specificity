@@ -1,0 +1,16 @@
+http://www.wikidata.org/entity/P123c, 93.59861591695501
+http://www.wikidata.org/entity/P50c, 60.36650007572316
+http://www.wikidata.org/entity/P31c, 46.866961621566006
+http://www.wikidata.org/entity/P136c, 36.826218197498925
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 33.012268072594544
+http://www.wikidata.org/entity/P179c, 24.28506918238994
+http://www.wikidata.org/entity/P364c, 3.976465814566849
+http://www.wikidata.org/entity/P407c, 2.836166147038117
+http://www.wikidata.org/entity/P921c, 1.7416086130462318
+http://www.wikidata.org/entity/P291c, 1.5941722972972974
+http://www.wikidata.org/entity/P840c, 1.4409810935104752
+http://www.wikidata.org/entity/P495c, 0.7324169760208689
+http://www.wikidata.org/entity/P674c, 0.088
+http://www.wikidata.org/entity/P156c, 0.03
+http://www.wikidata.org/entity/P646-freebase, 0.02
+http://www.wikidata.org/entity/P953c, 0.01

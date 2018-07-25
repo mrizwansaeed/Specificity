@@ -1,0 +1,11 @@
+http://www.wikidata.org/entity/P495c, 9990
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 9971
+http://www.wikidata.org/entity/P364c, 9953
+http://www.wikidata.org/entity/P31c, 9947
+http://www.wikidata.org/entity/P407c, 9941
+http://www.wikidata.org/entity/P264c, 9244
+http://www.wikidata.org/entity/P136c, 9027
+http://www.wikidata.org/entity/P175c, 8112
+http://www.wikidata.org/entity/P155c, 1463
+http://www.wikidata.org/entity/P162c, 1294
+http://www.wikidata.org/entity/P156c, 39

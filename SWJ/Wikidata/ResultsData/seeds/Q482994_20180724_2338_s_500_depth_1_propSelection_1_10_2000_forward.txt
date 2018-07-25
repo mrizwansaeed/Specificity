@@ -1,0 +1,14 @@
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 43.95
+http://www.wikidata.org/entity/P31c, 21.65
+http://www.wikidata.org/entity/P175c, 8.55
+http://www.wikidata.org/entity/P155c, 7.4
+http://www.wikidata.org/entity/P156c, 6.6
+http://www.wikidata.org/entity/P264c, 6.45
+http://www.wikidata.org/entity/P646-freebase, 2.25
+http://www.wikidata.org/entity/P136c, 1.15
+http://www.wikidata.org/entity/P856c, 1.0
+http://www.wikidata.org/entity/P921c, 1.0
+http://www.wikidata.org/entity/P495c, 0.85
+http://www.wikidata.org/entity/P162c, 0.4
+http://www.wikidata.org/entity/P407c, 0.35
+http://www.wikidata.org/entity/P364c, 0.3
