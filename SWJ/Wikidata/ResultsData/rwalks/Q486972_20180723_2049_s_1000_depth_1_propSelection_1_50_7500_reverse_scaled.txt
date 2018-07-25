@@ -1,0 +1,10 @@
+http://www.wikidata.org/entity/P131c, 26.848896905786045
+http://www.wikidata.org/entity/P17c, 14.77667825621824
+http://www.wikidata.org/entity/P421c, 14.483367677362379
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 14.170800375385442
+http://www.wikidata.org/entity/P31c, 13.535651940378676
+http://www.wikidata.org/entity/P47c, 1.6188671023965142
+http://www.wikidata.org/entity/P625c, 0.38666666666666666
+http://www.wikidata.org/entity/P1435c, 0.05737234652897304
+http://www.wikidata.org/entity/P706c, 0.02666666666666667
+http://www.wikidata.org/entity/P646-freebase, 0.013333333333333334
